@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Iletimerkezi SMS\n"
+"POT-Creation-Date: 2018-04-11 22:42+0300\n"
+"PO-Revision-Date: 2018-04-11 22:43+0300\n"
+"Last-Translator: \n"
+"Language-Team: www.iletimerkezi.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: admin-pages.php\n"
+"X-Poedit-SearchPath-1: core.php\n"
+"X-Poedit-SearchPath-2: helpers.php\n"
+"X-Poedit-SearchPath-3: url-shorten.php\n"
+
+#: admin-pages.php:15
+msgid "Iletimerkezi Public Key"
+msgstr ""
+
+#: admin-pages.php:15 admin-pages.php:23
+msgid "Available from within your iletimerkezi.com account"
+msgstr ""
+
+#: admin-pages.php:17
+msgid "Enter Public Key"
+msgstr ""
+
+#: admin-pages.php:19 admin-pages.php:27
+msgid ""
+"To view API credentials visit <a href=\"https://www.iletimerkezi.com\" "
+"target=\"_blank\">https://www.iletimerkezi.com</a>"
+msgstr ""
+
+#: admin-pages.php:23
+msgid "Iletimerkezi Private Key"
+msgstr ""
+
+#: admin-pages.php:25
+msgid "Enter Private Key"
+msgstr ""
+
+#: admin-pages.php:31
+msgid "Iletimerkezi Sender"
+msgstr ""
+
+#: admin-pages.php:31
+msgid ""
+"Must be a approved sender id associated with your iletimerkezi.com account"
+msgstr ""
+
+#: admin-pages.php:35
+msgid "Sender Id"
+msgstr ""
+
+#: admin-pages.php:39
+msgid "Advanced &amp; Debug Options"
+msgstr ""
+
+#: admin-pages.php:39
+msgid "Easly debug."
+msgstr ""
+
+#: admin-pages.php:41
+msgid "Enable Logging"
+msgstr ""
+
+#: admin-pages.php:42
+msgid "Enable or Disable Logging"
+msgstr ""
+
+#: admin-pages.php:43
+msgid "Add Mobile Number Field to User Profiles"
+msgstr ""
+
+#: admin-pages.php:44
+msgid ""
+"Adds a new field \"Mobile Number\" under Contact Info on all user profile "
+"forms."
+msgstr ""
+
+#: admin-pages.php:45
+msgid "Shorten URLs using Google"
+msgstr ""
+
+#: admin-pages.php:46
+msgid "Enter Google Project API key"
+msgstr ""
+
+#: admin-pages.php:47
+msgid ""
+"Shorten all URLs in the message using the <a href=\"https://code.google.com/"
+"apis/console/\" target=\"_blank\">Google URL Shortener API</a>. Checking "
+"will display the API key field."
+msgstr ""
+
+#: admin-pages.php:52
+msgid "Save Changes"
+msgstr ""
+
+#: admin-pages.php:100
+msgid "Send a Message"
+msgstr ""
+
+#: admin-pages.php:101
+msgid ""
+"If you are sending messages while in trial mode, you are only receive test "
+"message text."
+msgstr ""
+
+#: admin-pages.php:105
+msgid "Recipient Number"
+msgstr ""
+
+#: admin-pages.php:109
+msgid ""
+"The destination phone number. Format with a '+' and country code e.g., "
+"+905909009090 "
+msgstr ""
+
+#: admin-pages.php:113
+msgid "Message Body"
+msgstr ""
+
+#: admin-pages.php:116
+msgid "The text of the message you want to send, limited to 1045 characters."
+msgstr ""
+
+#: admin-pages.php:121
+msgid "Send Message"
+msgstr ""
+
+#: admin-pages.php:142
+msgid "Logs Cleared"
+msgstr ""
+
+#: admin-pages.php:152
+msgid "Clear Logs"
+msgstr ""
+
+#: admin-pages.php:153 core.php:116
+msgid "Logs"
+msgstr ""
+
+#: core.php:66
+msgid "Iletimerkezi"
+msgstr ""
+
+#: core.php:80
+msgid "Iletimerkezi SMS for WordPress"
+msgstr ""
+
+#: core.php:115
+msgid "Settings"
+msgstr ""
+
+#: core.php:117
+msgid "Test"
+msgstr ""
+
+#: helpers.php:29 helpers.php:30
+msgid "[Api Error] Connection error"
+msgstr ""
+
+#: helpers.php:32
+#, php-format
+msgid "Success! Message ID: %s"
+msgstr ""
+
+#: helpers.php:38
+#, php-format
+msgid "[Api Error] %s "
+msgstr ""
+
+#: helpers.php:44
+msgid ""
+"Some details are missing. Please make sure you have added all details in the "
+"settings tab."
+msgstr ""
+
+#: helpers.php:123
+msgid "From: "
+msgstr ""
+
+#: helpers.php:123
+msgid "To: "
+msgstr ""
+
+#: helpers.php:136
+msgid "[Argument missing] Iletimerkezi Sender ID"
+msgstr ""
+
+#: helpers.php:140
+msgid "[Argument missing] Recipient Number"
+msgstr ""
+
+#: helpers.php:144
+msgid "[Argument missing] Message"
+msgstr ""
+
+#: helpers.php:148
+msgid "[Argument missing] Public Key"
+msgstr ""
+
+#: helpers.php:152
+msgid "[Argument missing] Private Key"
+msgstr ""
+
+#: helpers.php:177
+msgid "Mobile Number"
+msgstr ""
